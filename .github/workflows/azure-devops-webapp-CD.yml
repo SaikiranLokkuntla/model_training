@@ -50,5 +50,6 @@ jobs:
           path: model.joblib
           #  release.zip
           #  !venv/
+          #print
 
  
